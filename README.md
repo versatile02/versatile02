@@ -64,4 +64,6 @@ Git, GitHub, VS Code
 
 ## 🔗 Connect with Me
 
-- LinkedIn: https**://www.linkedin.com/in/arhamuddin**
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/arhamuddin/)
